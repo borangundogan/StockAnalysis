@@ -1,0 +1,384 @@
+2024-04-28 22:53:34,103 - __main__ - INFO - Session started
+2024-04-28 22:54:33,357 - __main__ - INFO - Files loaded
+2024-04-28 22:54:34,338 - __mp_main__ - INFO - Session started
+2024-04-28 22:54:34,371 - __mp_main__ - INFO - Session started
+2024-04-28 22:54:34,393 - __mp_main__ - INFO - Session started
+2024-04-28 22:54:34,395 - __mp_main__ - INFO - Session started
+2024-04-28 22:54:34,401 - __mp_main__ - INFO - Session started
+2024-04-28 22:54:34,411 - __mp_main__ - INFO - Session started
+2024-04-28 22:54:34,413 - __mp_main__ - INFO - Session started
+2024-04-28 22:54:34,428 - __mp_main__ - INFO - Session started
+2024-04-28 22:54:42,785 - __mp_main__ - ERROR - An error occurred: [Errno 2] No such file or directory: '.csv'
+Traceback (most recent call last):
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 125, in main
+    stocks = load_stocks(filename)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 33, in load_stocks
+    with open(filename, 'r') as file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '.csv'
+2024-04-28 22:54:49,621 - __mp_main__ - ERROR - An error occurred: [Errno 2] No such file or directory: 'no.csv'
+Traceback (most recent call last):
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 125, in main
+    stocks = load_stocks(filename)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 33, in load_stocks
+    with open(filename, 'r') as file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'no.csv'
+2024-04-28 22:54:59,648 - __mp_main__ - INFO - Session stopped
+2024-04-28 22:54:59,796 - __mp_main__ - ERROR - An error occurred: [Errno 2] No such file or directory: 'no.csv'
+Traceback (most recent call last):
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 125, in main
+    stocks = load_stocks(filename)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 33, in load_stocks
+    with open(filename, 'r') as file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'no.csv'
+2024-04-28 22:54:59,932 - __mp_main__ - ERROR - An error occurred: [Errno 2] No such file or directory: 'n.csv'
+Traceback (most recent call last):
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 125, in main
+    stocks = load_stocks(filename)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 33, in load_stocks
+    with open(filename, 'r') as file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'n.csv'
+2024-04-28 22:55:00,149 - __mp_main__ - ERROR - An error occurred: [Errno 2] No such file or directory: '.csv'
+Traceback (most recent call last):
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 125, in main
+    stocks = load_stocks(filename)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 33, in load_stocks
+    with open(filename, 'r') as file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '.csv'
+2024-04-28 22:55:21,025 - __main__ - INFO - Figure saved as stock_ratings.png.
+2024-04-28 22:55:22,585 - __main__ - INFO - Session stopped
+2024-04-28 23:01:10,979 - __main__ - INFO - Session started
+2024-04-28 23:01:51,563 - __main__ - ERROR - An error occurred: [Errno 2] No such file or directory: 'boran.csv'
+Traceback (most recent call last):
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 125, in main
+    stocks = load_stocks(filename)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 33, in load_stocks
+    with open(filename, 'r') as file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'boran.csv'
+2024-04-28 23:01:57,348 - __main__ - INFO - Session stopped
+2024-04-28 23:01:59,780 - __main__ - INFO - Session started
+2024-04-28 23:02:25,243 - __main__ - INFO - Files loaded
+2024-04-28 23:02:26,094 - __mp_main__ - INFO - Session started
+2024-04-28 23:02:26,229 - __mp_main__ - INFO - Session started
+2024-04-28 23:02:26,243 - __mp_main__ - INFO - Session started
+2024-04-28 23:02:26,244 - __mp_main__ - INFO - Session started
+2024-04-28 23:02:26,253 - __mp_main__ - INFO - Session started
+2024-04-28 23:02:26,256 - __mp_main__ - INFO - Session started
+2024-04-28 23:02:26,257 - __mp_main__ - INFO - Session started
+2024-04-28 23:02:26,269 - __mp_main__ - INFO - Session started
+2024-04-28 23:03:20,036 - __mp_main__ - ERROR - An error occurred: [Errno 2] No such file or directory: 'yes.csv'
+Traceback (most recent call last):
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 125, in main
+    stocks = load_stocks(filename)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 33, in load_stocks
+    with open(filename, 'r') as file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'yes.csv'
+2024-04-28 23:03:26,356 - __mp_main__ - ERROR - An error occurred: [Errno 2] No such file or directory: 'yes.csv'
+Traceback (most recent call last):
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 125, in main
+    stocks = load_stocks(filename)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 33, in load_stocks
+    with open(filename, 'r') as file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'yes.csv'
+2024-04-28 23:03:30,981 - __mp_main__ - ERROR - An error occurred: [Errno 2] No such file or directory: 'yes.csv'
+Traceback (most recent call last):
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 125, in main
+    stocks = load_stocks(filename)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 33, in load_stocks
+    with open(filename, 'r') as file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'yes.csv'
+2024-04-28 23:03:35,990 - __mp_main__ - INFO - Files loaded
+2024-04-28 23:03:35,999 - __mp_main__ - ERROR - An error occurred: 
+        An attempt has been made to start a new process before the
+        current process has finished its bootstrapping phase.
+
+        This probably means that you are not using fork to start your
+        child processes and you have forgotten to use the proper idiom
+        in the main module:
+
+            if __name__ == '__main__':
+                freeze_support()
+                ...
+
+        The "freeze_support()" line can be omitted if the program
+        is not going to be frozen to produce an executable.
+
+        To fix this issue, refer to the "Safe importing of main module"
+        section in https://docs.python.org/3/library/multiprocessing.html
+        
+Traceback (most recent call last):
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 127, in main
+    with Pool() as pool:
+         ^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/context.py", line 119, in Pool
+    return Pool(processes, initializer, initargs, maxtasksperchild,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/pool.py", line 215, in __init__
+    self._repopulate_pool()
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/pool.py", line 306, in _repopulate_pool
+    return self._repopulate_pool_static(self._ctx, self.Process,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/pool.py", line 329, in _repopulate_pool_static
+    w.start()
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/process.py", line 121, in start
+    self._popen = self._Popen(self)
+                  ^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/context.py", line 289, in _Popen
+    return Popen(process_obj)
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/popen_spawn_posix.py", line 32, in __init__
+    super().__init__(process_obj)
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/popen_fork.py", line 19, in __init__
+    self._launch(process_obj)
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/popen_spawn_posix.py", line 42, in _launch
+    prep_data = spawn.get_preparation_data(process_obj._name)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/spawn.py", line 164, in get_preparation_data
+    _check_not_importing_main()
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/spawn.py", line 140, in _check_not_importing_main
+    raise RuntimeError('''
+RuntimeError: 
+        An attempt has been made to start a new process before the
+        current process has finished its bootstrapping phase.
+
+        This probably means that you are not using fork to start your
+        child processes and you have forgotten to use the proper idiom
+        in the main module:
+
+            if __name__ == '__main__':
+                freeze_support()
+                ...
+
+        The "freeze_support()" line can be omitted if the program
+        is not going to be frozen to produce an executable.
+
+        To fix this issue, refer to the "Safe importing of main module"
+        section in https://docs.python.org/3/library/multiprocessing.html
+        
+2024-04-28 23:03:43,799 - __mp_main__ - ERROR - An error occurred: [Errno 2] No such file or directory: 'yes.csv'
+Traceback (most recent call last):
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 125, in main
+    stocks = load_stocks(filename)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 33, in load_stocks
+    with open(filename, 'r') as file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'yes.csv'
+2024-04-28 23:03:46,682 - __mp_main__ - ERROR - An error occurred: [Errno 2] No such file or directory: 'yes.csv'
+Traceback (most recent call last):
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 125, in main
+    stocks = load_stocks(filename)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 33, in load_stocks
+    with open(filename, 'r') as file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'yes.csv'
+2024-04-28 23:03:48,651 - __mp_main__ - INFO - Session stopped
+2024-04-28 23:04:01,215 - __main__ - INFO - Figure saved as stock_ratings.png.
+2024-04-28 23:07:15,710 - __main__ - INFO - Successful symbols saved to new.csv.
+2024-04-28 23:07:15,710 - __main__ - INFO - Session stopped
+2024-04-28 23:12:45,387 - __main__ - INFO - Session started
+2024-04-28 23:12:51,709 - __main__ - INFO - Files loaded
+2024-04-28 23:12:52,443 - __mp_main__ - INFO - Session started
+2024-04-28 23:12:52,677 - __mp_main__ - INFO - Session started
+2024-04-28 23:12:52,685 - __mp_main__ - INFO - Session started
+2024-04-28 23:12:52,687 - __mp_main__ - INFO - Session started
+2024-04-28 23:12:52,694 - __mp_main__ - INFO - Session started
+2024-04-28 23:12:52,695 - __mp_main__ - INFO - Session started
+2024-04-28 23:12:52,713 - __mp_main__ - INFO - Session started
+2024-04-28 23:12:52,722 - __mp_main__ - INFO - Session started
+2024-04-28 23:13:02,655 - __mp_main__ - ERROR - An error occurred: [Errno 2] No such file or directory: 'yes.csv'
+Traceback (most recent call last):
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 125, in main
+    stocks = load_stocks(filename)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 33, in load_stocks
+    with open(filename, 'r') as file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'yes.csv'
+2024-04-28 23:13:07,258 - __mp_main__ - ERROR - An error occurred: [Errno 2] No such file or directory: 'yes.csv'
+Traceback (most recent call last):
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 125, in main
+    stocks = load_stocks(filename)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 33, in load_stocks
+    with open(filename, 'r') as file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'yes.csv'
+2024-04-28 23:13:09,023 - __mp_main__ - INFO - Files loaded
+2024-04-28 23:13:09,029 - __mp_main__ - ERROR - An error occurred: 
+        An attempt has been made to start a new process before the
+        current process has finished its bootstrapping phase.
+
+        This probably means that you are not using fork to start your
+        child processes and you have forgotten to use the proper idiom
+        in the main module:
+
+            if __name__ == '__main__':
+                freeze_support()
+                ...
+
+        The "freeze_support()" line can be omitted if the program
+        is not going to be frozen to produce an executable.
+
+        To fix this issue, refer to the "Safe importing of main module"
+        section in https://docs.python.org/3/library/multiprocessing.html
+        
+Traceback (most recent call last):
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 127, in main
+    with Pool() as pool:
+         ^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/context.py", line 119, in Pool
+    return Pool(processes, initializer, initargs, maxtasksperchild,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/pool.py", line 215, in __init__
+    self._repopulate_pool()
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/pool.py", line 306, in _repopulate_pool
+    return self._repopulate_pool_static(self._ctx, self.Process,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/pool.py", line 329, in _repopulate_pool_static
+    w.start()
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/process.py", line 121, in start
+    self._popen = self._Popen(self)
+                  ^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/context.py", line 289, in _Popen
+    return Popen(process_obj)
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/popen_spawn_posix.py", line 32, in __init__
+    super().__init__(process_obj)
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/popen_fork.py", line 19, in __init__
+    self._launch(process_obj)
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/popen_spawn_posix.py", line 42, in _launch
+    prep_data = spawn.get_preparation_data(process_obj._name)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/spawn.py", line 164, in get_preparation_data
+    _check_not_importing_main()
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/spawn.py", line 140, in _check_not_importing_main
+    raise RuntimeError('''
+RuntimeError: 
+        An attempt has been made to start a new process before the
+        current process has finished its bootstrapping phase.
+
+        This probably means that you are not using fork to start your
+        child processes and you have forgotten to use the proper idiom
+        in the main module:
+
+            if __name__ == '__main__':
+                freeze_support()
+                ...
+
+        The "freeze_support()" line can be omitted if the program
+        is not going to be frozen to produce an executable.
+
+        To fix this issue, refer to the "Safe importing of main module"
+        section in https://docs.python.org/3/library/multiprocessing.html
+        
+2024-04-28 23:13:13,707 - __mp_main__ - ERROR - An error occurred: [Errno 2] No such file or directory: 'yes.csv'
+Traceback (most recent call last):
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 125, in main
+    stocks = load_stocks(filename)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 33, in load_stocks
+    with open(filename, 'r') as file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'yes.csv'
+2024-04-28 23:13:16,015 - __mp_main__ - ERROR - An error occurred: [Errno 2] No such file or directory: 'yes.csv'
+Traceback (most recent call last):
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 125, in main
+    stocks = load_stocks(filename)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 33, in load_stocks
+    with open(filename, 'r') as file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'yes.csv'
+2024-04-28 23:13:20,884 - __mp_main__ - ERROR - An error occurred: [Errno 2] No such file or directory: 'yes.csv'
+Traceback (most recent call last):
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 125, in main
+    stocks = load_stocks(filename)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 33, in load_stocks
+    with open(filename, 'r') as file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'yes.csv'
+2024-04-28 23:13:24,483 - __mp_main__ - INFO - Session stopped
+2024-04-28 23:13:36,574 - __main__ - INFO - Figure saved as stock_ratings.png.
+2024-04-28 23:14:54,838 - __main__ - INFO - Session stopped
+2024-04-28 23:14:59,114 - __main__ - INFO - Session started
+2024-04-28 23:15:04,190 - __main__ - ERROR - An error occurred: [Errno 2] No such file or directory: ',new.csv'
+Traceback (most recent call last):
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 125, in main
+    stocks = load_stocks(filename)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 33, in load_stocks
+    with open(filename, 'r') as file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: ',new.csv'
+2024-04-28 23:15:08,871 - __main__ - INFO - Session stopped
+2024-04-28 23:15:11,311 - __main__ - INFO - Session started
+2024-04-28 23:15:15,335 - __main__ - INFO - Files loaded
+2024-04-28 23:15:18,589 - __main__ - INFO - Figure saved as stock_ratings.png.
+2024-04-28 23:15:41,540 - __main__ - INFO - Successful symbols saved to boran.csv.
+2024-04-28 23:15:41,540 - __main__ - INFO - Session stopped
+2024-04-28 23:16:05,686 - __main__ - INFO - Session started
+2024-04-28 23:16:14,129 - __main__ - ERROR - An error occurred: [Errno 2] No such file or directory: 'stocks1..csv'
+Traceback (most recent call last):
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 125, in main
+    stocks = load_stocks(filename)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/borangundogan/Desktop/Python_Project/Stock-Analysis/app.py", line 33, in load_stocks
+    with open(filename, 'r') as file:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'stocks1..csv'
+2024-04-28 23:16:17,016 - __main__ - INFO - Session stopped
+2024-04-28 23:16:19,044 - __main__ - INFO - Session started
+2024-04-28 23:16:21,890 - __main__ - INFO - Files loaded
+2024-04-28 23:16:26,661 - __main__ - INFO - Figure saved as stock_ratings.png.
+2024-04-28 23:16:33,697 - __main__ - INFO - Successful symbols saved to boranstocks.csv.
+2024-04-28 23:16:33,697 - __main__ - INFO - Session stopped
+2024-04-29 09:45:22,781 - __main__ - INFO - Session started
+2024-04-29 09:45:29,378 - __main__ - INFO - Files loaded
+2024-04-29 09:45:33,329 - __main__ - INFO - Figure saved as stock_ratings.png.
+2024-04-29 09:45:50,647 - __main__ - INFO - Successful symbols saved to boran2904.csv.
+2024-04-29 09:45:50,647 - __main__ - INFO - Session stopped
+2024-04-29 20:59:22,420 - __main__ - INFO - Session started
+2024-04-29 20:59:25,534 - __main__ - INFO - Files loaded
+2024-04-29 20:59:29,129 - __main__ - INFO - Figure saved as stock_ratings.png.
+2024-04-29 20:59:41,956 - __main__ - INFO - Successful symbols saved to boranlastt.csv.
+2024-04-29 20:59:41,957 - __main__ - INFO - Session stopped
+2024-04-29 21:12:13,342 - __main__ - INFO - Session started
+2024-04-29 21:12:20,226 - __main__ - INFO - Files loaded
+2024-04-29 21:12:23,715 - __main__ - INFO - Figure saved as stock_ratings_{current_datetime}.png.
+2024-04-29 21:12:36,885 - __main__ - INFO - Successful symbols saved to boran_1.csv.
+2024-04-29 21:12:36,885 - __main__ - INFO - Session stopped
+2024-04-29 21:19:15,575 - __main__ - INFO - Session started
+2024-04-29 21:19:19,548 - __main__ - INFO - Files loaded
+2024-04-29 21:19:23,865 - __main__ - INFO - Figure saved as figures/stock_ratings_2024-04-29_21-19-23.png.
+2024-04-29 21:19:28,060 - __main__ - ERROR - An error occurred while saving successful symbols to stocks/2024-04-29_21-19-28_currenttime.csv: [Errno 2] No such file or directory: 'stocks/2024-04-29_21-19-28_currenttime.csv'
+2024-04-29 21:19:28,060 - __main__ - INFO - Session stopped
+2024-04-29 21:20:30,679 - __main__ - INFO - Session started
+2024-04-29 21:20:34,271 - __main__ - INFO - Files loaded
+2024-04-29 21:20:38,556 - __main__ - INFO - Figure saved as figures/stock_ratings_2024-04-29_21-20-38.png.
+2024-04-29 21:20:40,087 - __main__ - INFO - Successful symbols saved to stocks/2024-04-29_21-20-40_currenttime.csv.
+2024-04-29 21:20:40,087 - __main__ - INFO - Session stopped
+2024-04-29 21:21:29,781 - __main__ - INFO - Session started
+2024-04-29 21:21:33,224 - __main__ - INFO - Files loaded
+2024-04-29 21:21:36,687 - __main__ - INFO - Figure saved as figures/stock_ratings_2024-04-29_21-21-36.png.
+2024-04-29 21:21:37,940 - __main__ - INFO - Successful symbols saved to stocks/2024-04-29_21-21-37_stock.csv.
+2024-04-29 21:21:37,940 - __main__ - INFO - Session stopped
